@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df42d671-53da-465e-91df-b495057d051a" name="Changes" comment="refactoring classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_2/Task_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_2/Task_2_2.java" afterDir="false" />
+    <list default="true" id="df42d671-53da-465e-91df-b495057d051a" name="Changes" comment="add Tasks 2.1, 2.2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_3_1/Task_3_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_3_1/Task_3_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_3_1/Task_3_1_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,12 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tasks_3_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task_3_1_3">
     <configuration name="Task_2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tasks_2.Task_2_2" />
       <module name="Tasks" />
@@ -63,8 +69,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_3_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_3_1.Task_3_1_1" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks_3_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_3_1.Task_3_1_2" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks_3_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3_1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_3_1.Task_3_1_3" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks_3_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_3_1_3" />
+        <item itemvalue="Application.Task_3_1_2" />
+        <item itemvalue="Application.Task_3_1_1" />
         <item itemvalue="Application.Task_2_2" />
       </list>
     </recent_temporary>
@@ -85,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726598769866</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Tasks 2.1, 2.2">
+      <created>1727432986631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727432986631</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactoring classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring classes" />
+    <MESSAGE value="add Tasks 2.1, 2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Tasks 2.1, 2.2" />
   </component>
 </project>
