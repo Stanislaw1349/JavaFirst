@@ -16,7 +16,6 @@ public class Task_3_2_3 {
 
         for (int i = 40; i <= 60; i = i + 4) {
             System.out.println(i);
-
         }
     }
 }
