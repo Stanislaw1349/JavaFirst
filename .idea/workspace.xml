@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df42d671-53da-465e-91df-b495057d051a" name="Changes" comment="add Tasks 3.2.1, 3.2.2 3.2.3 for loop">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_4/Task_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_4/Task_4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_4/Task_4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_4/Task_4_4.java" afterDir="false" />
+    <list default="true" id="df42d671-53da-465e-91df-b495057d051a" name="Changes" comment="add Tasks 4.1, 4.2, 4.3, 4,4 introduction to arrays">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks_5_1/Task_5_1_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks_3_2/Task_3_2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_3_2/Task_3_2_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +57,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tasks_5_1" />
       <recent name="Tasks_4" />
       <recent name="Tasks_3_2" />
       <recent name="Tasks_3_1_2" />
       <recent name="Tasks_3_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_4_4">
-    <configuration name="Task_3_2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_3_2.Task_3_2_3" />
+  <component name="RunManager" selected="Application.Task_5_1_8">
+    <configuration name="Task_5_1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5_1.Task_5_1_4" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_3_2.*" />
+          <option name="PATTERN" value="Tasks_5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_4.Task_4_1" />
+    <configuration name="Task_5_1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5_1.Task_5_1_5" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_4.*" />
+          <option name="PATTERN" value="Tasks_5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_4.Task_4_2" />
+    <configuration name="Task_5_1_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5_1.Task_5_1_6" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_4.*" />
+          <option name="PATTERN" value="Tasks_5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_4.Task_4_3" />
+    <configuration name="Task_5_1_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5_1.Task_5_1_7" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_4.*" />
+          <option name="PATTERN" value="Tasks_5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_4.Task_4_4" />
+    <configuration name="Task_5_1_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5_1.Task_5_1_8" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_4.*" />
+          <option name="PATTERN" value="Tasks_5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_4_4" />
-        <item itemvalue="Application.Task_4_3" />
-        <item itemvalue="Application.Task_4_2" />
-        <item itemvalue="Application.Task_4_1" />
-        <item itemvalue="Application.Task_3_2_3" />
+        <item itemvalue="Application.Task_5_1_8" />
+        <item itemvalue="Application.Task_5_1_7" />
+        <item itemvalue="Application.Task_5_1_6" />
+        <item itemvalue="Application.Task_5_1_5" />
+        <item itemvalue="Application.Task_5_1_4" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727725620463</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Tasks 4.1, 4.2, 4.3, 4,4 introduction to arrays">
+      <created>1727809451336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727809451336</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +203,7 @@
     <MESSAGE value="add Tasks 2.1, 2.2" />
     <MESSAGE value="add Tasks 3.1, 3.2 3.3 If else statement" />
     <MESSAGE value="add Tasks 3.2.1, 3.2.2 3.2.3 for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Tasks 3.2.1, 3.2.2 3.2.3 for loop" />
+    <MESSAGE value="add Tasks 4.1, 4.2, 4.3, 4,4 introduction to arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Tasks 4.1, 4.2, 4.3, 4,4 introduction to arrays" />
   </component>
 </project>

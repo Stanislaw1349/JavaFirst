@@ -1,15 +1,19 @@
 package Tasks_5_1;
 
-public class Task_5_1_4 {
+public class Task_5_1_5 {
     public static void main(String[] args) {
         //Дан массив:
-        //int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        //необходимо вывести среднее арифметическое всех значений массива.
-        int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+        //int[][] array = {{1, 2, 3, 4, 5}, {6, 7, 8, 9}, {-1, -2, -3, -4}, {-5, -6}};
+        //необходимо вывести сумму элементов массива.
+
+        int[][] array = {{1, 2, 3, 4, 5}, {6, 7, 8, 9}, {-1, -2, -3, -4}, {-5, -6}};
+
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
-            sum += array[i];
+            for (int j = 0; j < array[i].length; j++) {
+                sum += array[i][j];
+            }
         }
-        System.out.println(1.0 * sum / array.length);
+        System.out.println(sum);
     }
 }
